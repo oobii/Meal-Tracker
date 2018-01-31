@@ -39,6 +39,8 @@ Access the food for the row using indexPath.row.<br>
 Update the cell's text label text and detail text label text to be the name and description of the food item.<br>
 In the tableView(_:titleForHeaderInSection:), return the name of the meal that corresponds to the section.<br>
 
+![MealTracker App](https://github.com/oobii/Meal-Tracker/blob/master/MealTracker-TableView-Style-Grouped.png)
+
 
   
 
